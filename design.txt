@@ -1,0 +1,16 @@
+Title: WebCam Photo Share
+
+Description:
+An app that starts the computer webcam, lets user capture a photo
+and upload the photo to the web and create a sharable link.
+
+Objects:
+- WebCam:
+-- start()
+-- stop()
+-- capture()
+
+- FileSharer:
+-- filepath
+-- api
+-- share()
